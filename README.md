@@ -1,5 +1,9 @@
 # IoT-Intruder-System:
 
+![Project Photo 2](https://github.com/user-attachments/assets/74cf6a1d-44e8-46dc-8db7-544cb9516859)
+![Project Photo 1](https://github.com/user-attachments/assets/33864212-43f0-4885-a98e-9742ce45dc19)
+
+
 # Brief Description
 
 This project has been created as a final assignment for the subject Internet of Things. The main goal of this project is to simulate an intruder system using a buzzer and other components.
@@ -14,6 +18,7 @@ This project has been created as a final assignment for the subject Internet of 
 - Ultrasonic Sensor
 - Buzzer
 - RBG LED light
+- NPN Transistor
 
 # Softwares Used
 
